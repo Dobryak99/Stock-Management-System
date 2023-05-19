@@ -15,3 +15,10 @@ This program is a simple stock management system through the terminal using C++ 
 * Sell stocks.
 
 ## 📸Screenshots
+![Alt text](https://github.com/Dobryak99/Stock-Management-System/blob/main/Screenshots/Buy%20new%20assets.png)
+
+![Alt text](https://github.com/Dobryak99/Stock-Management-System/blob/main/Screenshots/Log%20In%20menu.png)
+
+![Alt text](https://github.com/Dobryak99/Stock-Management-System/blob/main/Screenshots/Main%20menu.png)
+
+![Alt text](https://github.com/Dobryak99/Stock-Management-System/blob/main/Screenshots/Show%20assets.png)
